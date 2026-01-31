@@ -1,10 +1,10 @@
 # 👋 Hey, I'm Krishna 👋
 
 🚀 About Me
-  🎓 Pursuing MCA
-  🐍 Strong interest in Python, AI/ML, and Data Analysis
-  🔍 Actively preparing for Data analyst / AI roles
-  📈 Focused on building real-world projects, not just tutorials
+  - 🎓 Pursuing MCA
+  - 🐍 Strong interest in Python, AI/ML, and Data Analysis
+  - 🔍 Actively preparing for Data analyst / AI roles
+  - 📈 Focused on building real-world projects, not just tutorials
 
 
 When I'm not coding, I'm probably:

@@ -40,11 +40,12 @@ Here are some things I’ve been working on:
 
 | Project | Description | Link |
 |---------|-------------|--------|
-| 🔧 Sales analysis | Short description of what it does | Repo |
-| ⚡ Project Two | What problem it solves | Repo |
-| 📦 Project Three | Tech stack + purpose | Repo |
+| 🔧 Video Games Sales EDA | Conducted comprehensive exploratory data analysis on video game sales data to reveal patterns in sales by genre, platform, and region. | [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge&logo=github)](https://github.com/Krishna111972/Video-games-sales-EDA)|
+| ⚡ Online Book Store Data Analysis with MySQL | SQL/MySQL project focused on analyzing an online bookstore database to derive sales, customer, and product insights using advanced queries. |  [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge&logo=github)](https://github.com/Krishna111972/Online_book_store_data_analysis_with_MySQL)|
+|👨‍💼 Employee Dataset Cleaning | Data cleaning and preprocessing of employee dataset using NumPy & Pandas |  [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge&logo=github)](https://github.com/Krishna111972/Employee-dataset-cleaning-using-numpy-and-pandas)|
+| 📊 Data Analysis with MS Excel | Data analysis using Microsoft Excel with pivot tables & visual insights |  [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge&logo=github)](https://github.com/Krishna111972/Data-analysis-with-MS-excel)||
+| 💬 Sentiment Analysis (DS) | NLP-based sentiment classification and analysis using Python |  [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge&logo=github)](https://github.com/Krishna111972/DS-sentiment-analysis-)| |
 
-> Tip: Replace **Repo** with your actual repo links.
 
 ---
 

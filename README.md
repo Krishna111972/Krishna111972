@@ -43,6 +43,7 @@ Here are some things I’ve been working on:
 
 | Project | Description | Link |
 |---------|-------------|--------|
+| 🛒 SwiftCart E-Commerce BI | E-Commerce Business Intelligence project focused on analyzing sales performance, customer behavior, revenue trends, and generating actionable business insights. | [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge&logo=github)](https://github.com/Krishna111972/SwiftCart-ECommerce-BI) |
 | 🔧 Video Games Sales EDA | Conducted comprehensive exploratory data analysis on video game sales data to reveal patterns in sales by genre, platform, and region. | [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge&logo=github)](https://github.com/Krishna111972/Video-games-sales-EDA)|
 | ⚡ Online Book Store Data Analysis with MySQL | SQL/MySQL project focused on analyzing an online bookstore database to derive sales, customer, and product insights using advanced queries. |  [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge&logo=github)](https://github.com/Krishna111972/Online_book_store_data_analysis_with_MySQL)|
 |👨‍💼 Employee Dataset Cleaning | Data cleaning and preprocessing of employee dataset using NumPy & Pandas |  [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge&logo=github)](https://github.com/Krishna111972/Employee-dataset-cleaning-using-numpy-and-pandas)|
